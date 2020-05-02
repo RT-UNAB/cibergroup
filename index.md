@@ -11,7 +11,7 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 
 # Contacto
-:EMOJICODE:.
+
 
 romina.torres@unab.cl :mailbox:
 
