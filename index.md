@@ -11,5 +11,10 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 
 # Contacto
+:EMOJICODE:.
 
-romina.torres@unab.cl[twitter](https://twitter.com/rominabot)
+romina.torres@unab.cl :mailbox:
+
+
+
+[twitter](https://twitter.com/rominabot)
