@@ -1,4 +1,4 @@
-## Bienvenido al *cybergroup* [UNAB Viña del Mar](https://twitter.com/inf_unab_vm) 
+## Bienvenido a nuestro *cybergroup* 
 
 En este sitio publicaremos diferentes pruebas de concepto que estamos realizando en nuestro grupo.
 
@@ -11,7 +11,7 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 
 
-# Miembros (bajo construcción)
+# Miembros (en construcción)
 <p align="center">
   <img src="https://github.com/RT-UNAB/cybergroup/blob/master/RT.jpg" width="100" title="Profesor Investigador Romina Torres">
 </p>
@@ -20,3 +20,4 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 ### Contacto
 [email](mailto:romina.torres@unab.cl) [twitter](https://twitter.com/rominabot)
+[UNAB Viña del Mar](https://twitter.com/inf_unab_vm) 
