@@ -10,4 +10,4 @@ Es importante saber cuando existen brotes de ataques en otros lugares del mundo 
 
 # Contacto
 
-romina.torres@unab.cl
+romina.torres@unab.cl[twitter](https://twitter.com/rominabot)
