@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido al cibergroup UNAB Viña del Mar
 
 You can use the [editor on GitHub](https://github.com/RT-UNAB/cibergroup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
