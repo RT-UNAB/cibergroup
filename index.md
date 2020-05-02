@@ -13,7 +13,7 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 # Miembros (bajo construcción)
 <p align="center">
-  <img src="https://github.com/RT-UNAB/cybergroup/blob/master/RT.jpg" width="256" title="Github Logo">
+  <img src="https://github.com/RT-UNAB/cybergroup/blob/master/RT.jpg" width="256" title="Profesor">
 </p>
 
 
