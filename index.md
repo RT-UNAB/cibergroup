@@ -1,8 +1,6 @@
-## Bienvenido al cibergroup UNAB Viña del Mar
+## Bienvenido al cibergroup [UNAB Viña del Mar](https://twitter.com/inf_unab_vm)
 
-You can use the [editor on GitHub](https://github.com/RT-UNAB/cibergroup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+En este sitio publicaremos contenidos para ayudar a la comunidad a protegerse en el ciberespacio. 
 
 ### Markdown
 
