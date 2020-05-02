@@ -1,6 +1,6 @@
 ## Bienvenido al *cybergroup* [UNAB Viña del Mar](https://twitter.com/inf_unab_vm) 
 
-En este sitio publicaremos contenidos para ayudar a la comunidad a protegerse en el ciberespacio. 
+En este sitio publicaremos diferentes pruebas de concepto de interés de nuestro grupo.
 
 # Pruebas de Concepto
 ## *Cyberaware* 
@@ -12,9 +12,11 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 # Contacto
 
+<p align="center">
+  <img src="https://github.com/RT-UNAB/cybergroup/blob/master/RT.jpg" width="256" title="Github Logo">
+</p>
 
-romina.torres@unab.cl :mailbox:
 
 
 
-[twitter](https://twitter.com/rominabot)
+[email](mailto:romina.torres@unab.cl) [twitter](https://twitter.com/rominabot)
