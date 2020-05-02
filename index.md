@@ -1,8 +1,9 @@
 # Bienvenido a nuestro *cybergroup* 
 
-En este sitio publicaremos diferentes pruebas de concepto que estamos realizando en nuestro grupo.
+
 
 ## Pruebas de Concepto
+En esta sección publicaremos diferentes pruebas de concepto que estamos realizando en nuestro grupo.
 ### *Cyberaware* 
 Porque es importante estar **aware** cuando recién están surgiendo los primeros brotes de ataques aunque sea en otros lugares del mundo, este verano trabajamos con Nicolás González una prueba de concepto en el contexto de su práctica temprana de Ingeniería Civil Informática.  
 
