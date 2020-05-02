@@ -1,4 +1,4 @@
-## Bienvenido al cybergroup [UNAB Viña del Mar](https://twitter.com/inf_unab_vm) 
+## Bienvenido al *cybergroup* [UNAB Viña del Mar](https://twitter.com/inf_unab_vm) 
 
 En este sitio publicaremos contenidos para ayudar a la comunidad a protegerse en el ciberespacio. 
 
