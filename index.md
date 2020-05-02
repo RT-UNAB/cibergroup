@@ -15,7 +15,6 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 ## Participación de nuestros miembros en Eventos
 
 ## Miembros (en construcción)
-![](/img/RT.jpg)
 <p align="center">
   <img src="RT.jpg" width="100" title="Profesor Investigador Romina Torres">
 </p>
