@@ -15,7 +15,7 @@ Porque es importante estar **aware** cuando recién están surgiendo los primero
 
 ## Miembros (en construcción)
 <p align="center">
-  <img src="https://github.com/RT-UNAB/cybergroup/blob/master/RT.jpg" width="100" title="Profesor Investigador Romina Torres">
+  <img src="RT.jpg" width="100" title="Profesor Investigador Romina Torres">
 </p>
 
 
